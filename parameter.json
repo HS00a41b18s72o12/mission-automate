@@ -1,0 +1,19 @@
+{
+    "SHOWROOM_USER_ID": "username",
+    "SHOWROOM_PASSWORD": "password",
+    "STAY_TIME": 32,
+    "VISITS_COUNT": 1,
+    "RADIO_MODE": false,
+    "TAKE_CAPTURE": false,
+    "ONLY_ROOM_VISIT": true,
+    "AVOID_ANNIVERSARY_VISIT": true,
+    "EXTENDED": {
+        "EXTENDED_CODE": "extended_code",
+        "PRIORIZE_EVENT": false,
+        "KEY_WORD": "listenerupupup_showroom",
+        "GET_AD_REWARD": false,
+        "AD_COUNT": 1
+    },
+    "TWO_WEEK_CODE": "two_week_code",
+    "MONTHLY_CODE": "minthly_code"
+}
