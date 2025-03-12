@@ -15,5 +15,6 @@
         "AD_COUNT": 1
     },
     "TWO_WEEK_CODE": "two_week_code",
-    "MONTHLY_CODE": "minthly_code"
+    "MONTHLY_CODE": "minthly_code",
+    "USER_NAME": "displayname"
 }
